@@ -48,3 +48,11 @@
   (powers-inside (string-length binary-str) 0 0)
  )
 
+<<<<<<< HEAD
+=======
+(from-binary-string "1")
+(from-binary-string "1101111")
+(from-binary-string "101010")
+(from-binary-string "100")
+(from-binary-string "11")
+>>>>>>> d53c6cd6089f4e5bb16f4aa47771f74acb18b34b

@@ -1,6 +1,10 @@
 #lang racket
+<<<<<<< HEAD
+
 (provide string-repeat)
 
+=======
+>>>>>>> d53c6cd6089f4e5bb16f4aa47771f74acb18b34b
 (define (string-repeat str n)
   (define (string-repeat-inside counter result)
     (if (= counter (- n 1)) (string-append result str)
